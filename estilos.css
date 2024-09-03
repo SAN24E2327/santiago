@@ -5,51 +5,53 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(46, 2, 26);
+    color: rgb(241, 199, 208);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("FONDO3JPNG.jfif");
+    background-image: url("Fondo.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
     
 
 }
 
 .titulo{
-font-size: 50px;
-color: black;
+font-size: 80px;
+color: rgb(175, 76, 76);
 text-align: center;
 }
 
 .titulo{
-font-size: 50px;
-color: black;
+font-size: 80px;
+color: rgb(175, 76, 76);
 text-align: center;
 }
 
 .titulo{
-font-size: 50px;
-color: black;
+font-size: 80px;
+color: rgb(175, 76, 76);
 text-align: center;
 }
 
 .titulo{
-font-size: 50px;
-color: black;
+font-size: 80px;
+color: rgb(175, 76, 76);
 text-align: center;
 }
 
 .titulo{
-font-size: 50px;
-color: black;
+font-size: 80px;
+color: rgb(175, 76, 76);
 text-align: center;
 }
 
 .titulo{
-font-size: 50px;
-color: black;
+font-size: 80px;
+color: rgb(175, 76, 76);
 text-align: center;
 }
 .imgt1{
@@ -63,9 +65,87 @@ float: left;
 
 .imgb1{
 
-    height: 150px;
+height: 150px;
 width: 300px;
 background-image: url("circuito.jpeg");
 background-repeat: no-repeat;
 float: left;
+}
+
+.titulo{
+font-size: 100px;
+color: rgb(175, 76, 76) ;
+text-align: center;
+}
+
+.imagen{
+height: 200px;
+width: 400px;
+background-image: url("imagen1.png");
+background-repeat: no-repeat;
+float: left;
+
+}
+
+.imagen2{
+height: 200px;
+width: 400px;
+background-image: url("imagen2.png");
+background-repeat: no-repeat;
+float: left;
+    
+}
+
+.imagen3{
+height: 250px;
+width: 400px;
+background-image: url("imagen3.png");
+background-repeat: no-repeat;
+float: center;
+        
+}
+
+.imagen4{
+height: 250px;
+width: 400px;
+background-image: url("imagen4.png");
+background-repeat: no-repeat;
+float: center;
+            
+}
+
+.imagen5{
+height: 250px;
+width: 400px;
+background-image: url("imagen5.png");
+background-repeat: no-repeat;
+float: center;
+                
+}
+
+.imagen6{
+height: 250px;
+width: 350px;
+background-image: url("imagen6.png");
+background-repeat: no-repeat;
+float: center;
+                    
+}
+
+.imagen7{
+height: 250px;
+width: 400px;
+background-image: url("imagen7.png");
+background-repeat: no-repeat;
+float: center;
+                        
+}
+
+.imagen8{
+height: 250px;
+width: 350px;
+background-image: url("imagen8.png");
+background-repeat: no-repeat;
+float: center;
+                        
 }
