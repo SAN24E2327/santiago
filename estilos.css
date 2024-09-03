@@ -12,7 +12,7 @@
      
 }
 body{
-    background-image: url("Fondo.jpeg");
+    background-image: url("fondomadera.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     
@@ -74,7 +74,7 @@ float: left;
 
 .titulo{
 font-size: 100px;
-color: rgb(175, 76, 76) ;
+color: rgb(207, 81, 81) ;
 text-align: center;
 }
 
@@ -148,4 +148,193 @@ background-image: url("imagen8.png");
 background-repeat: no-repeat;
 float: center;
                         
+}
+
+.imagen9{
+height: 250px;
+width: 350px;
+background-image: url("imagen9.png");
+background-repeat: no-repeat;
+float: center;
+                            
+    }
+
+.imagen10{
+height: 250px;
+width: 350px;
+background-image: url("imagen10.png");
+background-repeat: no-repeat;
+float: center;
+                                
+}
+
+.imagen11{
+height: 250px;
+width: 350px;
+background-image: url("imagen11.png");
+background-repeat: no-repeat;
+float: center;
+                                    
+}
+
+.imagen12{
+height: 250px;
+width: 350px;
+background-image: url("imagen12.png");
+background-repeat: no-repeat;
+float: center;
+                                        
+}
+
+.imagen13{
+height: 250px;
+width: 350px;
+background-image: url("imagen13.png");
+background-repeat: no-repeat;
+float: center;
+                                            
+}
+
+.imagen14{
+height: 320px;
+width: 400px;
+background-image: url("imagen14.png");
+background-repeat: no-repeat;
+float: center;
+                                                
+}
+
+.imagen15{
+height: 300px;
+width: 350px;
+background-image: url("imagen15.png");
+background-repeat: no-repeat;
+float: center;
+                                                    
+}
+
+.imagen16{
+height: 320px;
+width: 400px;
+background-image: url("imagen16.png");
+background-repeat: no-repeat;
+float: center;
+                                                        
+}
+
+.imagen17{
+height: 320px;
+width: 400px;
+background-image: url("imagen17.png");
+background-repeat: no-repeat;
+float: center;
+                                                            
+}
+
+.imagen18{
+height: 320px;
+width: 400px;
+background-image: url("imagen18.png");
+background-repeat: no-repeat;
+float: center;
+                                                                
+}
+
+.imagen19{
+height: 320px;
+width: 400px;
+background-image: url("imagen19.png");
+background-repeat: no-repeat;
+float: center;
+                                                                
+}
+
+.imagen20{
+height: 320px;
+width: 400px;
+background-image: url("imagen20.png");
+background-repeat: no-repeat;
+float: center;
+                                                                    
+}
+
+.imagen21{
+height: 320px;
+width: 400px;
+background-image: url("imagen21.png");
+background-repeat: no-repeat;
+float: center;
+                                                                        
+}
+
+.imagen22{
+height: 320px;
+width: 400px;
+background-image: url("imagen22.png");
+background-repeat: no-repeat;
+float: center;
+                                                                            
+}
+
+.imagen23{
+height: 320px;
+width: 800px;
+background-image: url("imagen23.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                
+}
+
+.imagen24{
+height: 320px;
+width: 800px;
+background-image: url("imagen24.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                    
+}
+
+.imagen25{
+height: 320px;
+width: 800px;
+background-image: url("imagen25.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                        
+}
+
+.imagen26{
+height: 320px;
+width: 800px;
+background-image: url("imagen26.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                            
+}
+
+.imagen27{
+height: 320px;
+width: 800px;
+background-image: url("imagen27.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                
+}
+
+.imagen28{
+height: 320px;
+width: 800px;
+background-image: url("imagen28.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                    
+}
+
+.imagen29{
+height: 320px;
+width: 800px;
+background-image: url("imagen29.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                        
 }
