@@ -338,3 +338,40 @@ background-repeat: no-repeat;
 float: center;
                                                                                                         
 }
+
+.imagen30{
+height: 320px;
+width: 800px;
+background-image: url("imagen30.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                            
+}
+
+.imagen31{
+height: 320px;
+width: 800px;
+background-image: url("imagen31.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                
+}
+
+.imagen32{
+height: 320px;
+width: 800px;
+background-image: url("imagen32.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                    
+}
+
+.imagen33{
+height: 320px;
+width: 800px;
+background-image: url("imagen33.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                        
+}
+
