@@ -14,7 +14,7 @@
 body{
     background-image: url("fondomadera.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     
 
 }
@@ -59,7 +59,7 @@ height: 150px;
 width: 300px;
 background-image: url("circuito.jpeg");
 background-repeat: no-repeat;
-float: left;
+float: center;
 
 }
 
@@ -69,7 +69,7 @@ height: 150px;
 width: 300px;
 background-image: url("circuito.jpeg");
 background-repeat: no-repeat;
-float: left;
+float: center;
 }
 
 .titulo{
@@ -83,7 +83,7 @@ height: 200px;
 width: 400px;
 background-image: url("imagen1.png");
 background-repeat: no-repeat;
-float: left;
+float: center;
 
 }
 
@@ -92,7 +92,7 @@ height: 200px;
 width: 400px;
 background-image: url("imagen2.png");
 background-repeat: no-repeat;
-float: left;
+float: center;
     
 }
 
@@ -440,7 +440,7 @@ float: center;
 
 .imagen40{
 height: 320px;
-width: 800px;
+width: 600px;
 background-image: url("imagen40.png");
 background-repeat: no-repeat;
 float: center;
@@ -449,7 +449,7 @@ float: center;
 
 .imagen41{
 height: 320px;
-width: 800px;
+width: 500px;
 background-image: url("imagen41.png");
 background-repeat: no-repeat;
 float: center;
