@@ -458,7 +458,7 @@ float: center;
 
 .imagen42{
 height: 320px;
-width: 800px;
+width: 400px;
 background-image: url("imagen42.png");
 background-repeat: no-repeat;
 float: center;
@@ -467,7 +467,7 @@ float: center;
 
 .imagen43{
 height: 320px;
-width: 800px;
+width: 600px;
 background-image: url("imagen43.png");
 background-repeat: no-repeat;
 float: center;
@@ -491,3 +491,24 @@ background-repeat: no-repeat;
 float: center;
                                                                                                                                                                             
 }
+
+
+.imagen46{
+height: 320px;
+width: 800px;
+background-image: url("imagen46.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                
+}
+    
+    
+.imagen47{
+height: 320px;
+width: 800px;
+background-image: url("imagen47.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                
+}
+    
