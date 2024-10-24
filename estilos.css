@@ -54,23 +54,8 @@ font-size: 80px;
 color: rgb(175, 76, 76);
 text-align: center;
 }
-.imgt1{
-height: 150px;
-width: 300px;
-background-image: url("circuito.jpeg");
-background-repeat: no-repeat;
-float: center;
 
-}
 
-.imgb1{
-
-height: 150px;
-width: 300px;
-background-image: url("circuito.jpeg");
-background-repeat: no-repeat;
-float: center;
-}
 
 .titulo{
 font-size: 100px;
@@ -412,11 +397,11 @@ float: center;
 }
 
 .imagen37{
-    height: 320px;
-    width: 800px;
-    background-image: url("imagen37.png");
-    background-repeat: no-repeat;
-    float: center;
+height: 320px;
+width: 800px;
+background-image: url("imagen37.png");
+background-repeat: no-repeat;
+float: center;
                                                                                                                                             
     }
 
@@ -457,8 +442,8 @@ float: center;
 }
 
 .imagen42{
-height: 320px;
-width: 400px;
+height: 420px;
+width: 800px;
 background-image: url("imagen42.png");
 background-repeat: no-repeat;
 float: center;
@@ -466,8 +451,8 @@ float: center;
 }
 
 .imagen43{
-height: 320px;
-width: 600px;
+height: 420px;
+width: 800px;
 background-image: url("imagen43.png");
 background-repeat: no-repeat;
 float: center;
@@ -475,8 +460,8 @@ float: center;
 }
 
 .imagen44{
-height: 320px;
-width: 800px;
+height: 520px;
+width: 700px;
 background-image: url("imagen44.png");
 background-repeat: no-repeat;
 float: center;
@@ -484,31 +469,207 @@ float: center;
 }
 
 .imagen45{
-height: 320px;
-width: 800px;
+height: 520px;
+width: 850px;
 background-image: url("imagen45.png");
 background-repeat: no-repeat;
 float: center;
                                                                                                                                                                             
 }
 
-
 .imagen46{
-height: 320px;
+height: 520px;
 width: 800px;
 background-image: url("imagen46.png");
 background-repeat: no-repeat;
 float: center;
-                                                                                                                                                                                
+                                                                                                                                                                
 }
-    
-    
+
 .imagen47{
 height: 320px;
-width: 800px;
+width: 500px;
 background-image: url("imagen47.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                    
+}
+
+.imagen48{
+height: 320px;
+width: 500px;
+background-image: url("imagen48.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                        
+}
+
+.imagen49{
+height: 320px;
+width: 500px;
+background-image: url("imagen49.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                            
+}
+
+.imagen50{
+height: 320px;
+width: 500px;
+background-image: url("imagen50.png");
 background-repeat: no-repeat;
 float: center;
                                                                                                                                                                                 
 }
-    
+
+.imagen51{height: 320px;
+width: 500px;
+background-image: url("imagen51.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                    
+}
+
+.imagen52{
+height: 320px;
+width: 500px;
+background-image: url("imagen52.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                        
+}
+
+.imagen53{
+height: 450px;
+width: 700px;
+background-image: url("imagen53.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                            
+}
+
+.imagen54{
+height: 450px;
+width: 700px;
+background-image: url("imagen54.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                
+}
+
+.imagen55{
+height: 450px;
+width: 700px;
+background-image: url("imagen55.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                    
+}
+
+.imagen56{
+height: 450px;
+width: 700px;
+background-image: url("imagen56.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                        
+}
+
+.imagen57{
+height: 550px;
+width: 700px;
+background-image: url("imagen57.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                            
+}
+
+.imagen58{
+height: 500px;
+width: 700px;
+background-image: url("imagen58.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                
+}
+
+.imagen59{
+height: 450px;
+width: 700px;
+background-image: url("imagen59.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                    
+}
+
+.imagen60{
+height: 450px;
+width: 700px;
+background-image: url("imagen60.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                        
+}
+
+.imagen61{
+height: 600px;
+width: 700px;
+background-image: url("imagen61.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                            
+}
+
+.imagen62{
+height: 450px;
+width: 700px;
+background-image: url("imagen62.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                                
+}
+
+.imagen63{
+height: 450px;
+width: 700px;
+background-image: url("imagen63.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                                    
+}
+
+.imagen64{
+height: 450px;
+width: 700px;
+background-image: url("imagen64.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                                        
+}
+
+.imagen65{
+height: 450px;
+width: 700px;
+background-image: url("imagen65.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                                            
+}
+
+.imagen66{
+height: 450px;
+width: 700px;
+background-image: url("imagen66.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                                                
+}
+
+.imagen67{
+height: 450px;
+width: 700px;
+background-image: url("imagen67.png");
+background-repeat: no-repeat;
+float: center;
+                                                                                                                                                                                                                                                    
+}
