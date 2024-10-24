@@ -5,7 +5,7 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(241, 199, 208);
+    color:rgb(255, 240, 243);
 }
 .principal{
    display: flex;
@@ -19,49 +19,13 @@ body{
 
 }
 
-.titulo{
-font-size: 80px;
-color: rgb(175, 76, 76);
-text-align: center;
-}
 
 .titulo{
 font-size: 80px;
-color: rgb(175, 76, 76);
+color: rgb(0, 0, 0);
 text-align: center;
 }
 
-.titulo{
-font-size: 80px;
-color: rgb(175, 76, 76);
-text-align: center;
-}
-
-.titulo{
-font-size: 80px;
-color: rgb(175, 76, 76);
-text-align: center;
-}
-
-.titulo{
-font-size: 80px;
-color: rgb(175, 76, 76);
-text-align: center;
-}
-
-.titulo{
-font-size: 80px;
-color: rgb(175, 76, 76);
-text-align: center;
-}
-
-
-
-.titulo{
-font-size: 100px;
-color: rgb(207, 81, 81) ;
-text-align: center;
-}
 
 .imagen{
 height: 200px;
