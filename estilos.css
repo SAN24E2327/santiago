@@ -22,7 +22,7 @@ body{
 
 .titulo{
 font-size: 80px;
-color: rgb(0, 0, 0);
+color: rgb(75, 45, 45);
 text-align: center;
 }
 
@@ -727,16 +727,16 @@ float: center;
                                                                                                                                                                                                                                                                                                 
 }
 .imagen78{
-height: 450px;
-width: 700px;
+height: 400px;
+width: 450px;
 background-image: url("imagen78.png");
 background-repeat: no-repeat;
 float: center;
                                                                                                                                                                                                                                                                                                     
 }
 .imagen79{
-height: 450px;
-width: 700px;
+height: 400px;
+width: 500px;
 background-image: url("imagen79.png");
 background-repeat: no-repeat;
 float: center;
